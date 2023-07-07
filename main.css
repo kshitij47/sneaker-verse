@@ -1,6 +1,8 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
 body {
   font-family: "Inconsolata", monospace;
   color: #0d1e2d;
@@ -388,6 +390,13 @@ h6,
 
 .custom-navbar .navbar-brand {
   font-size: 1.7rem;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.custom-navbar .navbar-brand .alt {
+  font-size: 1.7rem;
+  font-family: 'Permanent Marker', cursive;
+  color: red;
 }
 
 /* Burger */
